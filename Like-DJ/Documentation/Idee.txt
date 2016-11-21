@@ -14,4 +14,4 @@ Features:
 	- Jeder User kann 1 Lied nur 1 mal voten
 	- Gespielte / Abgelehnte Lieder werden nicht mehr vom "Swipe To Vote" vorgeschlagen
 		- Gespielte Lieder setzen jedoch ihre Likes zurück und bieten die Möglichkeit erneut hochgeliked zu werden
-	--
+	-
