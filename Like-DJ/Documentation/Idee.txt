@@ -1,0 +1,16 @@
+Features:
+---------
+	- Facebook-Login / Spotify-Login
+	- Swipe to Vote
+		- Reihenfolge des Trends (Like descending)
+	- Gamifikation Elemente
+		- Avatar / Level / Erfolge (Trendsetter etc.)
+	- Zwei Modi für Gastgeber:
+		- Dispot (Jeder kann lieder vorschlagen, Gastgeber sucht aus. Voten kann jeder.)
+		- Demokratie (Jeder kann Lieder hinzufügen und voten.)
+		- Schein-Demokratie (Gäste können nur Voten.)
+	- Benachrichtigungen (Einstellung um Benachrichtung evt. aus zu schalten)
+	- Dynamische Track-Reihenfolge anhand der "Likes"
+	- Jeder User kann 1 Lied nur 1 mal voten
+	- Gespielte / Abgelehnte Lieder werden nicht mehr vom "Swipe To Vote" vorgeschlagen
+		- Gespielte Lieder setzen jedoch ihre Likes zurück und bieten die Möglichkeit erneut hochgeliked zu werden
