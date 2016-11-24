@@ -5,7 +5,7 @@ Features:
 		- Reihenfolge des Trends (Like descending)
 	- Gamifikation Elemente
 		- Avatar / Level / Erfolge (Trendsetter etc.)
-	- Zwei Modi für Gastgeber:
+	- Modi für Gastgeber:
 		- Dispot (Jeder kann lieder vorschlagen, Gastgeber sucht aus. Voten kann jeder.)
 		- Demokratie (Jeder kann Lieder hinzufügen und voten.)
 		- Schein-Demokratie (Gäste können nur Voten.)
